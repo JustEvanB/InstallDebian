@@ -9,7 +9,7 @@ go to:
 http://debian.osuosl.org/debian-cdimage/12.8.0-live/amd64/iso-hybrid/
 ```
 and click on the "debian-live-12.8.0-amd64-gnome.iso" to download it, it's around 3.2GB
-The page should look like:
+The page should look like the picture above
 
 ## Step 2. Install
 
