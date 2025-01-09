@@ -2,7 +2,7 @@
 
 ## Step 1. Download
 
-![DownloadPage](http://github.com/JustEvanB/InstallDebian/DebianInstallPics/DownloadPage.png)
+![DownloadPage](/DebianInstallPics/DownloadPage.png)
 
 go to:
 ```
